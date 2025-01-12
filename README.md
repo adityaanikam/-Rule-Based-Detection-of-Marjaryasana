@@ -1,1 +1,1 @@
-# -Rule-Based-Detection-of-Marjaryasana
+# Rule-Based-Detection-of-Marjaryasana
